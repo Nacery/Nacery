@@ -2,7 +2,7 @@
 
 # Título del Proyecto
 
-![Imagen de Portada](Sin título.png)
+![Imagen de Portada](IMG/Sin título.png)
 
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
